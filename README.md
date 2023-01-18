@@ -1,4 +1,4 @@
-<h1>Pre-requisites:</h1>
+<h2>Pre-requisites:</h2>
     WordPress<br>
     WooCommerce<br>
     Some test products (can be default WooCommerce test data)<br>
