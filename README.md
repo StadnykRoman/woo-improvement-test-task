@@ -1,7 +1,7 @@
 <h1>Pre-requisites:</h1>
-WordPress
-WooCommerce
-Some test products (can be default WooCommerce test data)
+    WordPress<br>
+    WooCommerce<br>
+    Some test products (can be default WooCommerce test data)<br>
 
 <h2>Tasks:</h2>
     For each product add a new tab named “Information for goners”. The content of the tab should be editable on the product edit page. Do not use any 3rd-party plugins for the purpose of this task.
@@ -12,5 +12,5 @@ Some test products (can be default WooCommerce test data)
     Create one more order programmatically and fill in the data from the original order (shipping address, payment option, user, etc). Switch the status of this additional order to “On Hold”. Add products removed from the original order to this additional order.
 
 <h2>Deliverable (either of those):</h2>
-    A test website with implemented tasks
-    A plugin that implements these tasks
+    A test website with implemented tasks<br>
+    A plugin that implements these tasks<br>
